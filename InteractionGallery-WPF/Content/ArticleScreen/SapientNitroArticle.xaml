@@ -1,0 +1,15 @@
+﻿<ArticleModel Title="SapientNitro" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/sapient1.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/sapient2.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/sapient3.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>We live in an always-on world, where perpetual connection has revolutionized daily life and unhinged the effectiveness of traditional marketing approaches.</x:String>
+        <x:String>Never before has it been so critical for our clients to think about their customer's complete brand and buying experience as a single landscape – a never-ending narrative that offers an everywhere, anytime experience of their promise and message, be it during attraction, engagement or transaction.</x:String>
+        <x:String>This new reality requires that legacy agency, business and marketing paradigms be eliminated. The silos that divide creativity and technology, and any lines between the physical and virtual no longer exist in the real world and they don't exist in ours. A 'through the line' orientation is irrelevant. Through the day is everything.</x:String>
+        <x:String>At SapientNitro we are changing the game – creating a new way not held hostage by the longstanding ways of agencies but rather inspired by a changed world and by a passion for making an impact for our clients, with sapience and insight. And that makes us incredibly relevant for the times we live in.</x:String>
+        <x:String>Our clients, our industry, our world have never been more ready for game-changing impact. It's never been a better time for a different way and a new breed of agency.</x:String>
+        <x:String>Visit us at sapient.com/en-us/sapientnitro</x:String>    
+    </ArticleModel.Paragraphs>
+</ArticleModel>

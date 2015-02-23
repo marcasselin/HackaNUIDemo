@@ -1,0 +1,14 @@
+﻿<ArticleModel Title="KNIGHT FOUNDATION" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/knight1.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/knight2.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/knight3.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>"Thus we seek to bestir the people into an awareness of their own condition, provide inspiration for their thoughts and rouse them to pursue their true interests." — John S. Knight, April 1969</x:String>
+        <x:String>Knight Foundation supports transformational ideas that promote quality journalism, advance media innovation, engage communities and foster the arts. We believe that democracy thrives when people and communities are informed and engaged.</x:String>
+        <x:String>To help sustain healthy communities in a democracy, Knight aims to increase  the ability of individuals to engage in change. Knight fosters initiatives that develop in people a strong sense of belonging and caring, timely access to relevant information, the ability to understand that information, and the motivation, opportunity and skills to take sustainable action on a range of issues throughout their lives.</x:String>
+        <x:String>Knight Foundation fosters innovative approaches to increasing engagement skills in the community development field. The foundation funds programs that use technology to foster engagement. It supports individuals as agents for engagement, with a focus on youth leadership, social entrepreneurs and local institutions. Knight supports naturalization campaigns to increase the number of citizens who are highly motivated to engage with their communities.</x:String>
+        <x:String>Visit us at KnightFoundation.org</x:String>
+    </ArticleModel.Paragraphs>
+</ArticleModel>

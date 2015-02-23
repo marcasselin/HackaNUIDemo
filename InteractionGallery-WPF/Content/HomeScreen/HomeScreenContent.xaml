@@ -1,0 +1,44 @@
+﻿<List x:TypeArguments="mskbm:ExperienceOptionModel" xmlns="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:mskbm="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <mskbm:ExperienceOptionModel 
+        Name="Knight Foundation" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/01.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/KnightArticle.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="Microsoft Kinect" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/02.png"
+        OverlayImageUri="pack://application:,,,/Content/HomeScreen/play-overlay.png"
+        NavigableContextName="Video" 
+        NavigableContextParameter="Content/Videos/K4W_NISSAN.wmv" />
+    <mskbm:ExperienceOptionModel 
+        Name="Empower" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/04.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/EmpowerArticle.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="CrunchFire" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/04.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/CrunchFireArticle.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="SapientNitro" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/05.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/SapientNitroArticle.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="mLabs" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/06.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/mLabsArticle.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="Caffeine Spaces" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/01.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/CaffeineSpacesArticle.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="OpenNI" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/02.png" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/OpenNIArticle.xaml" />
+</List>

@@ -1,0 +1,13 @@
+﻿<ArticleModel Title="OpenNI" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/openni1.png</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/openni2.png</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/openni3.png</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>Established in November 2010, the not-for-profit OpenNI consortium was formed to promote and standardize the compatibility and interoperability of Natural Interaction (NI), devices, applications and middleware.</x:String>
+        <x:String>Today, OpenNI is the largest 3D sensing development framework and community. Its open source SDK is the recognized standard for developing computer vision middleware and 3D solutions.</x:String>
+        <x:String>The OpenNI community provides developers with a full range of software tools along with a vivid ecosystem platform for effective collaboration and promotion that address the complete development lifecycle: Discovery, Development and Distribution.</x:String>
+        <x:String>Visit us at OpenNI.org</x:String>
+    </ArticleModel.Paragraphs>
+</ArticleModel>

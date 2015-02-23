@@ -1,0 +1,15 @@
+﻿<ArticleModel Title="Caffeine Spaces" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/caffeinespaces1.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/caffeinespaces2.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/caffeinespaces3.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>Imagine a clubhouse for the entrepreneurial industry to meet, share ideas, and develop business relationships with like minded people.</x:String>
+        <x:String>Imagine a place to work for yourself, but not by yourself, and still have all the amenities a large company.</x:String>
+        <x:String>Then imagine having all of these contacts and amenities of a broader network to refer to at anytime.</x:String>
+        <x:String>This opportunity could boost your productivity many times over.</x:String>
+        <x:String>End your isolation; you can get started in our coworking space today and stop working from a secluded environment!</x:String>
+          <x:String>Visit us at CaffeineSpaces.com</x:String>    
+    </ArticleModel.Paragraphs>
+</ArticleModel>

@@ -1,0 +1,16 @@
+﻿<ArticleModel Title="Empower" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/empower1.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/empower2.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/empower3.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>The greatest asset of any organization is it’s people. So then what is the greatest investment of an organization? You got it – getting the right people!</x:String>
+        <x:String>We empower companies by quickly understanding their needs and providing the right talent to drive success. This is done by carefully assessing the client, assimilating needs, strategically sourcing, qualifying candidates and delivering the best person for the job.</x:String>
+        <x:String>There is an art to this process, we don’t just throw resumes or bodies at our clients like so many firms do. We carefully analyze the company’s culture, goals and vision; then we carefully analyze the candidate’s personalities, abilities, work ethics and goals to determine if there is a good fit. It truly is an art and we are exceptional at it after fine-tuning our skills over the last 15 years.</x:String>
+        <x:String>Let us empower your team!</x:String>
+        <x:String>If you are in need of technology talent, whether on a temporary or permanent basis, do not hesitate to contact us.</x:String>
+        <x:String>“The best investment any firm will ever make is whatever it takes to get the best individual for the job” ~ Andrew Carnegie</x:String>
+        <x:String>Visit us at EmpowerResources.com</x:String>
+    </ArticleModel.Paragraphs>
+</ArticleModel>

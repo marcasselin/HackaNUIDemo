@@ -1,0 +1,16 @@
+﻿<ArticleModel Title="mLabs" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/mlabs1.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/mlabs2.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/mlabs3.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>mLabs started out as an idea around how to solve the customer engagement problem. We took our idea to our local EDC and they moved us into their Technology Incubator in Boca Raton Florida. With their help and mentoring, we have created world class products for a number of industries including medical, animation, gaming, virtual environments, and more.</x:String>
+        <x:String>So what can we do for you?</x:String>
+        <x:String>Gesture Based Applications for kiosks, Storefront Displays, Customer Engagement, and Customer Analytics.</x:String>
+        <x:String>Touchable Surfaces for Kiosks, Wall Projections, Floor Projections, Interactive Tables, and Projection Mapping.</x:String>
+        <x:String>Speech Based Applications for Application Interfaces, Home and Office Automation, and Accessibility Applications.</x:String>
+        <x:String>Markerless Motion Capture (MOCAP) for Medical Implementations, Animation, and Character Rigging.</x:String>
+        <x:String>Visit us at mLabs.co</x:String>    
+    </ArticleModel.Paragraphs>
+</ArticleModel>

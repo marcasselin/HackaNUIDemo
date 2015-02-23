@@ -1,0 +1,8 @@
+﻿<List x:TypeArguments="mskbm:AttractImageModel" Capacity="4" xmlns="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:mskbm="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/attract1.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/attract2.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/attract3.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/attract4.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/attract5.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/attract6.png" />
+</List>

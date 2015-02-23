@@ -1,0 +1,16 @@
+﻿<ArticleModel Title="CrunchFire Technologies" xmlns="clr-namespace:Microsoft.Samples.Kinect.InteractionGallery.Models;assembly=InteractionGallery-WPF" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/crunchfire_screen1.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/crunchfire_screen2.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/crunchfire_screen3.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>       
+            <x:String>CrunchFire Ventures is an investment company --- we do startups! But not just startups, we invest in people, in ideas, in things that provide value and that have real business opportunity.</x:String>
+            <x:String>We are also part of a much larger network of investment resources. Our founders are associated with angel groups ranging from idea-stage all the way up to the edge of VC participation. And, we are not passive investors. The sum total of our experience and resources is combined in every deal we do. It may start with money, but it includes so much more.</x:String>
+            <x:String>“Shiny Products” By Themselves Are Not Businesses.</x:String>
+            <x:String>Usually, we provide capital resources to deals associated with our sister company, CrunchFire Technologies. However, we are bound only by opportunity and therefore will look at anything we find interesting.</x:String>
+            <x:String>Ultimately, from an investment perspective, we have no problem leading, following, or just participating. And if it’s not our thing, we’ll try and provide an introduction elsewhere. All of this, of course, assumes that there is a real business opportunity in the first place.</x:String>
+            <x:String>So, if you think you’ve got the next great thing, and are looking for the proverbial “smart money”, check out our philosophy and criteria and make sure there’s a fit, and then feel free to forward over your executive summary and pitch deck. Better yet, get someone we know to introduce you to us and champion your cause!</x:String>
+            <x:String>Visit us at CrunchFire.com</x:String>    
+    </ArticleModel.Paragraphs>
+</ArticleModel>
